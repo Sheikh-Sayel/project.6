@@ -1,0 +1,635 @@
+
+
+body{
+    background-color: whitesmoke;
+    border: 1px solid rgb(209, 204, 196);
+    border-radius: 10px;
+    max-width: 100%;
+}
+header{
+    position: fixed;
+    justify-content: center;
+    background-color:whitesmoke;
+    width: 100%;
+    height: 80px;
+   
+
+    
+
+    
+    
+    
+
+}
+.logo{
+    margin-top: 30px;
+    width: 250px;
+    display: flex;
+    margin-left: 200px;
+}
+.container{
+    margin: auto;
+    display: flex;
+    width: 100%;
+    height: 80px;
+  
+    
+    
+
+
+}
+header ul li{
+    list-style: none;
+    display: flex;
+    float: left;
+    margin-top: 20px;
+    
+}
+header ul{
+    margin-left: 150 px;
+}
+header ul li a{
+    text-decoration: none;
+    color: black;
+    margin-left:50px ;
+}
+
+
+.nav-container01{
+    position: relative;
+    
+    margin-top: 80px;
+    
+}
+.background-img{
+    width: 100%;
+    height:1000px ;
+    position: absolute;
+    display: flex;
+    opacity:.9;
+    outline-color:rgb(0, 0, 0)
+    
+}
+
+.nav-container{
+    position: relative;
+    color: bisque;
+    display: flex;
+
+
+}
+.nav-container0{
+    position: absolute;
+    
+    color: whitesmoke;
+    
+
+}
+.nav-container0 h1{
+    font-size: 80px;
+    margin-left: 200px;
+    
+    
+}
+.nav-container0 p{
+    margin-left: 200px;
+    font-size: 30px;
+    line-height: 40px;
+    padding-top: 0px;
+    
+}
+.nav-container1{
+    margin-bottom: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    display: flex;
+    width: 330px;
+    margin-left:1020px ;
+    border: 0px solid whitesmoke;
+    background-color: whitesmoke;
+    margin-top: 80px;
+    padding: 10px;
+    line-height: 30px;
+    
+    
+    
+    
+
+}
+.nav-container2{
+    margin: auto;
+    padding: 20px;
+}
+.nav-container3{
+    font-size: 15px;
+}
+.input{
+    width: 80%;
+    height: 25px;
+    font-size: 20px;
+    padding: 15px;
+    margin: 5px;
+    border: 0px;
+    background-color: rgb(219, 219, 219);
+
+}
+label{
+    font-size: 10px;
+    font-style: bold;
+}
+label:active{
+    color: black;
+}
+.btn1{
+    width:90%;
+    height: 50px;
+    margin-left: 5px;
+    border: 0;
+    background-color: #c52626;
+    color: #fff;
+    font-size: 20px;
+    font-family: Arial,;
+
+
+}
+.nav-container4{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 30px;
+
+}
+.hr1{
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+
+section{
+    display:flex;
+    position:relative ;
+    
+}
+.sec-container{
+
+    position: relative;
+
+}
+.sec-container h1{
+    margin-left: 500px;
+    display: flex;
+    font-size: 50px;
+    padding-top: 20px;
+}
+.paragraph{
+    display: flex;
+    position: absolute;
+    float: left;
+    margin-top: 70px;
+    margin-left: 200px;
+    font-size: 20px;
+    
+   
+}
+.btn2{
+    margin-left: 200px;
+    display: flex;
+    position: absolute;
+    margin-top: 300px;
+    width:auto ;
+    height: auto;
+    padding: 15px;
+    align-items: center;
+    
+    
+    
+    
+    
+}
+.btn2:hover{
+    color: #fff;
+    background-color: #c52626;
+    border: 0;
+
+}
+
+
+.paragraph1{
+    
+    font-size: 15px;
+    color: rgb(155, 148, 148);
+    margin-left: 200px;
+    position: relative;
+    display: flex;
+    float: left;
+}
+.img1{
+    margin-left: 910px;
+    display: flex;
+    float: left;
+    position: relative;
+    padding-top: 130px;
+    
+
+}
+
+
+
+
+
+
+.art-container{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 100px;
+
+}
+
+.art-container1{
+    text-align: center;
+    font-size: 20px;
+    font-family:sans-serif;
+    color: #494646;
+
+}
+.art-container2{
+    display: flex;
+    padding-top: 50px;
+
+   
+}
+.pic2{
+    height:52%;
+    width: 90%;
+
+}
+.art-container2 p{
+    letter-spacing:2px;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.art-container2 p{
+    letter-spacing:2px;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}.art-container3 p{
+    letter-spacing:2px;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}.art-container4 p{
+    letter-spacing:2px;
+    font-size:17 px;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}.art-container5 p{
+    letter-spacing:2px;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}.art-container6 p{
+    letter-spacing:2px;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}.art-container7 p{
+    letter-spacing:2px;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}.art-container8 p{
+    letter-spacing:2px;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}.art-container9 p{
+    letter-spacing:2px;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.art-container2 a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+.art-container3 a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+.art-container4 a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+.art-container5 a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+.art-container7 a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+.art-container8 a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+.art-container9 a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+.list {
+    margin-top: 10px;
+    color: #494646;
+    
+
+}
+.arti-button{
+    margin-top: 20px;
+
+
+}
+.btn3{
+    width: 100px;
+    height: 40px;
+    font-size:bold;
+    color: #fff;
+    background-color: #ac1c1c;
+    border: 0;
+
+}
+.btn3:hover{
+    color: #494646;
+    background-color: #fff;
+    border: 1px solid black;
+    font-style: bold;
+}
+.btn4{
+    width: 120px;
+    height: 40px;
+    border: 1px solid black;
+    font-style: bold;
+}
+.art-container3{
+    display: flex;
+    padding-top: 50px;
+}
+.art-container4{
+    padding-left: 45px;
+    
+
+}
+.art-container5{
+    margin-left: 20px;
+    padding-left: 21px;
+}
+
+
+.art-container6{
+    display: flex;
+    padding-top: 50px;
+
+}
+
+.art-container8{
+    margin-left: 20px;
+    padding-left: 21px;
+}
+.art-container9{
+    padding-left: 45px;
+
+}
+.btn5 {
+    margin-left: 700px;
+    margin-top: 50px;
+    width:180px;
+    height: 60px;
+    font-size: larger;
+    font-style: bold;
+     border: 1px solid black;
+
+}
+.btn5:hover {
+    border: 0;
+    color:#fff;
+    background-color: #ac1c1c;
+
+}
+
+
+
+
+
+aside h1{
+    padding-top: 50px;
+    text-align: center;
+    font-family: sans-serif;
+
+}
+.asd-container1{
+    width: 400px;
+   line-height: 20px;
+    text-align: center;
+
+
+}
+.asd-container2{
+    width: 450px;
+   
+    text-align: center;
+    margin-left: 50px;
+
+}
+.asd-container3{
+    width:450px;
+    
+    text-align: center;
+    margin-left:50px ;
+
+}
+.asd-container{
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+    justify-items: center;
+
+}
+
+
+
+
+
+
+footer{
+    margin-top: 50px;
+    width: 100%;
+    background-color: rgb(240, 234, 227);
+}
+form{
+    margin-left: 200px;
+    margin-right: 200px;
+    display: flex
+   
+    
+}
+.form2{
+    font-size: 15px;
+    font-family: sans-serif;
+    line-height: 25px
+}
+footer input [type="checkbox"]{
+    appearance:none;
+    -webkit-appearance: none;
+    height: 200px;
+    width: 400px;
+}
+ 
+
+
+.foot-container1 h1{
+    margin-top: 100px;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 30px bold;
+    margin-left: 200px;
+}
+.foot-p{
+   
+    margin-top: 10px;
+        margin-left: 300px;
+    font-size: 30px bold;
+    
+}
+.foot-container2{
+    margin-left:300px ;
+}
+
+
+.foot-input{
+    width: 500px;
+    height: 40px;
+    font-size: 18px;
+    border: 1px solid black;
+    background-color: rgb(240, 234, 227);
+    padding: 8px;
+    margin: 10px;
+    border: 1px solid black;
+
+    
+}
+.foot-input3{
+    width: 500px;
+    height: 50px;
+    font-size: 18px;
+    border: 1px solid black;
+    background-color: rgb(240, 234, 227);
+    
+    margin: 10px;
+    border: 1px solid black;
+
+    
+}
+.foot-input3:hover{
+    background-color: #ac1c1c;
+    color: #fff;
+    border: 0;
+
+}
+.foot-input1{
+    width: 450px;
+    height: 40px;
+    background-color: rgb(240, 234, 227);
+
+}
+.foot-input2{
+    width: 60px;
+    height: 40px;
+    margin-left: 10px;
+    background-color: rgb(240, 234, 227);
+    
+}
+.book-list{
+    font-size: 15px;
+    line-height: 25px;
+    font-family: sans-serif;
+
+}
+footer.new{
+    width: 15%;
+    height: 15%;
+}
+footer.new:active{
+    color: #494646;
+}
+.note{
+    margin-left:400px ;
+
+}
+.contact{
+    background-color:#2e2c2c;
+    color: #fff;
+    text-align: center;
+    padding-top: 100px;
+    font-family: sans-serif;
+    line-height: 25px;
+    width: 100%;
+    height: 450px;
+    border-radius: 5px;
+
+}
+.btn6{
+    color: #fff;
+    width: 200px;
+    height: 50px;
+    font-size: large;
+    background-color: #494646;
+    border: 2px solid white;
+
+}
+.btn6:hover{
+   
+    color: black;
+    background-color:#fff;
+    border: 0;
+
+}
+
+.last-note a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+    padding: 40px;
+    margin-left: 50pxpx;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
